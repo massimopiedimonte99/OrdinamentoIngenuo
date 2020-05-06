@@ -1,0 +1,43 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+}
+
+.sp {
+    text-align: center;
+    font-size: 20px;
+}
+
+.active {
+    color: #f00;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.row {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.box {
+    padding: 10px;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 25px;
+}
+
+h1 {
+    text-align: center;
+    margin: 60px 0;
+}
+
+footer {
+    text-align: center;
+    font-size: 30px;
+    color: #a1a1a1;
+    margin-bottom: 50px;
+}
